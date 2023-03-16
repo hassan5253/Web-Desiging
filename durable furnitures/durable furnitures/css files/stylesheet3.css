@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+body a:visited
+{
+color:#000099;
+}
+
+
+
+#beds{width:750px; height:580px; margin-left:220px; margin-top:70px; position:relative;}
+
+.b1{width:140px; height:100px; margin-top:30px; margin-left:5px; border:none;}
+
+.ls{margin-top:5px; color:#FFFFFF; position:absolute; font-size:18px; font-weight:bold; 
+background:#000000; text-align:center; width:735px; margin-left:5px; }
+
+#company{width:750px; height:480px; margin-left:220px; margin-top:70px; position:relative;}
+
+.com1{margin-top:90px; margin-left:50px; position:absolute; font-size:20px;}
+
+.com2{margin-top:30px; margin-left:450px; width:200px; height:150px;}
+
+.com3{width:670px; height:auto; margin-left:10px; margin-right:10px; text-align:justify; margin-top:20px; font-family:Calibri;}
+
+.com4{margin-top:20px; margin-left:10px; background:#33CC00;}
+
+.img11{width:130px; height:100px; border:none;}
+.img11:hover{width:150px; height:120px;}
+
+.img12{width:130px; height:100px; border:none;}
+.img12:hover{width:150px; height:120px;}
+
+.img13{width:130px; height:100px; border:none;}
+.img13:hover{width:150px; height:120px;}
+
+.img14{width:130px; height:100px; border:none;}
+.img14:hover{width:150px; height:120px;}
+
+
+
+.com5{ margin-left:60px; margin-top:10px;}
+
+
+.pmg{margin-left:30px; margin-top:70px; width:200px; height:220px; background:#FFFFFF; position:absolute; text-align:center; color:#000000; font-family:Calibri;}
+
+.pmg2{margin-left:275px; margin-top:70px; width:200px; height:220px; background:#FFFFFF; position:absolute; text-align:center; color:#000000; font-family:Calibri;}
+
+.pmg3{margin-left:520px; margin-top:70px; width:200px; height:220px; background:#FFFFFF; position:absolute; text-align:center; color:#000000; font-family:Calibri;}
+
+.pmg4{margin-left:100px; margin-top:320px; width:200px; height:220px; background:#FFFFFF; position:absolute; text-align:center; color:#000000; font-family:Calibri;}
+
+.pmg5{margin-left:450px; margin-top:320px; width:200px; height:220px; background:#FFFFFF; position:absolute; text-align:center; color:#000000; font-family:Calibri;}
+
+
+
+.pcont{margin-left:420px; margin-top:70px; width:300px; height:auto;
+position:absolute; font-weight:bold; font-family:Calibri;}
+
+.img21{margin-left:80px; margin-top:70px; width:320px; height:300px; position:absolute;}
+
+#table{margin-left:420px; margin-top:290px; position:absolute; font-weight:bold;}
+
+#pancor{font-weight:bold; font-size:20px; position:absolute; margin-left:100px; margin-top:490px;} 
+
+
+
+.n1{border:none; text-align:center; color:#000000; font-family:Arial, Helvetica, sans-serif;}
+.n1 img{width:180px; height:130px; border:none;}
+
+.n2{border:none; text-align:center; color:#000000; font-family:Arial, Helvetica, sans-serif;}
+.n2 img{width:180px; height:130px; border:none;}
+
+.n3{border:none; text-align:center; color:#000000; font-family:Arial, Helvetica, sans-serif;}
+.n3 img{width:180px; height:130px; border:none;}
+
+
+#blake{margin-top:-320px; position:absolute; background:#000000; color:#FFFFFF; width:190px; height:20px; text-align:center; padding:5px; font-size:20px;}
+.pew{font-weight:bold; font-family:"Times New Roman", Times, serif;}
+
+
+#giga2{margin-top:-270px; position:absolute; width:200px; height:200px;}
+
+
+.buttonn{padding:3px; margin:0 10px; background:url(../images/gradients/grad2.jpg); font-size:18px; width:100px; color:#FFFFFF; font-weight:bold; border:0px none; text-align:center; position:absolute;}
+
+.buttonb{padding:3px; margin:0 10px; background:url(../images/gradients/grad2.jpg); font-size:18px; width:100px; color:#FFFFFF; font-weight:bold; border:0px none; text-align:center; margin-left:130px; position:absolute;}
+
+
+#button{margin-left:420px; margin-top:490px; position:absolute; width:auto;}
+
+
